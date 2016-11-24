@@ -1,0 +1,11 @@
+1.)	Add spring dependency in POM if your are using Maven
+	or
+2.)	Add spring dependency in Build path
+
+Dependency List
+a.)	jstl ver1.1 or Higher
+b.)	spring-security-config-4.2.0.RELEASE.jar
+c.)	spring-security-taglibs-4.2.0.RELEASE.jar
+d.)	spring-security-web-4.2.0.RELEASE.jar
+e.) 	spring-security-core-4.2.0.RELEASE.jar
+f.)	other spring files like spring MVC, core 
